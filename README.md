@@ -1,1 +1,1 @@
-# hospitalManagementSystemBE
+# Hospital Management System
